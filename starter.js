@@ -1,6 +1,6 @@
-// Your first and last name
-// Current date
-// Project title
+// Trent Duncan
+// 4/27/2026
+// Function Evidence
 
 
 
